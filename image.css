@@ -1,0 +1,35 @@
+
+/*index*/
+body{
+    font-family: 'Quicksand', sans-serif;
+    background: url("header.jpg") no-repeat center;
+    background-size: cover;
+    height: 1080px;
+}
+h1{
+    color: white;
+    padding-bottom: 250px;
+}
+a{
+    color: greenyellow;
+    font-size: 20px;
+}
+.col-lg-12{
+    margin-top: 370px;
+}
+.form input{
+    width: 100%;
+}
+.btn-primary {
+    color: black;
+    background-color: #abdde5;
+    border-color:black;
+}
+.btn-primary:hover {
+    color: black;
+    background-color: #b3d7ff;
+    border-color: black;
+}
+
+
+/*sign in*/

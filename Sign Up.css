@@ -1,0 +1,14 @@
+body{
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+    background-color: #abdde5;
+}
+form{
+    margin-top: 200px;
+    background-color: white;
+}
+h3{
+    text-align: left;
+    margin-top: 20px;
+}
